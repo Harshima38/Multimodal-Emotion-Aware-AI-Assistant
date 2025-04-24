@@ -51,6 +51,6 @@ git clone https://github.com/yourusername/emotion-aware-assistant.git
 cd emotion-aware-assistant
 pip install -r requirements.txt
 
-### ▶️ Run the App
-```bash
+
+▶️ Run the App
 streamlit run test4.py
