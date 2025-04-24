@@ -50,7 +50,15 @@ A real-time emotion recognition assistant that uses **facial expressions**, **vo
 git clone https://github.com/yourusername/emotion-aware-assistant.git
 cd emotion-aware-assistant
 pip install -r requirements.txt
+```
+### ▶️ Run the App
 
-
-▶️ Run the App
+```bash
 streamlit run test4.py
+```
+
+## 📚 Datasets Used
+
+Audio: TESS Dataset
+
+Images: FER-2013
